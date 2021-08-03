@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Alex Prieto">
+    <meta name="Description"content="Retratos realistas, Retratos realistas a lápiz, Retraros realistas digitales, Retratos a carboncillo, Dibujo e Ilustración">
+    <link rel="icon" href="icono.ico">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <title>Portafolio Ilustraminati</title>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Inicio</a>
+                <a href="sobremi.html">Sobre mi</a>
+                <a href="contacto.html">Contactame</a>
+            </li>
+        </ul>
+    </nav>
+    <div id="imagen_encabezado">
+        <h1>Bienvenido/a a mi mundo</h1>
+        <img src="Rizos.jpg" alt="Rizos a mano">
+        <img src="valeria.jpg" alt="rostro">
+        <p>Sigue deslizando y verás más de mi arte</p>
+    </div>
+    <article>
+        <h2>
+            Ilustraminati te da la bienvenida
+        </h2>
+        <p>Mi nombre es Alex, fundador de Ilustraminati, seré tu anfitrión durante tu recorrido por el sitio web. 
+           Me da gusto tenerte aqui. 
+           Desde que tengo uso de razón me gusta dibujar. Nunca estuve mas cerca de mi arte,
+           que en el momento que estuve más lejos de la persona que me inspiró a dibujar, mi padre.</p>
+        <h3>ESTO ES EN HONOR A TI, MI VIEJO. E.R.P.P</h3>
+        <P>Seré el gran ser humano que siempre quisiste ver realizado.</P>
+    </article>
+    <div>
+        <h3>RETRATOS A LÁPIZ</h3>
+        <p>Estos dibujos son de mis primeros trabajos que hice. Los cobraba a 10.000 pesos colombianos y fue hace un año, 
+            durante pandemia y cuando desafortunadamente mi padre se fue a otro plano de la realidad.
+        Actualmente he aprendido mucho del arte, de prueba y error he podido ir perfeccionando mi técnica. Pronto les mostraré más.</p>
+        <img src="pareja.jpg" alt="Novios">
+        <img src="bebe.png" alt="baby">
+        <img src="nataly.jpg" alt="ella">
+        <img src="rosa.jpg" alt="Rosa">
+        <img src="valeria.jpg" alt="rostro">
+        <img src="shirley.jpg" alt="shirly">
+    </div>
+    <!--CONTACTAME--> 
+    <div>
+        <h2 id="contactame">
+            ¿Quieres un retrato de tus padres, tuyos o de tu perro?
+        </h2>
+        <p>Contáctame ya dando clic en este enlace:</p>
+        <a href="contacto.html">¡Comunicate conmigo ya!</a>
+        <button>@Ilustraminati</button>
+    </div>
+    <div>
+        <h3>RETRATOS DIGITALES</h3>
+        <p>Tuve la oportunidad de adquirir una tableta grafica wacom de segunda para crear nuevas obras de forma digital.
+            Dia a dia sigo experimentando con ella para lograr hacer mejores trabajos, que impresionen al que lo ve.
+            A continuación dejo algunos de mis mejores retratos digitales.
+        </p>
+        <img src="Primera.jpg" alt="La mona">
+        <img src="amigadetia.jpg" alt="Amiga de mi tia">
+        <img src="negra.jpg" alt="mi segunda obra">
+        <img src="SANDRA.png" alt="Ella respira fuego">
+        <img src="POLI.jpg" alt="Mascota">
+        <img src="Rizos.jpg" alt="Rizos a mano">
+    </div>
+    <!--CONTACTAME--> 
+    <footer>
+        <h2 id="contactame2">
+            ¿Quieres un retrato de tus padres, tuyos o de tu perro?
+        </h2>
+        <p>Contáctame ya dando clic en este enlace:</p>
+        <a href="contacto.html">¡Comunicate conmigo ya!</a>
+        <input type="text" value="Enviame un mensaje">
+    </footer>
+</body>
+
+</html>
